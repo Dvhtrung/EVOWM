@@ -1,0 +1,8 @@
+[data-role="chip-stack"] [data-role="revolver-item-list"]
+[data-role="timer"]
+[data-role="bet-spot-Player"]
+[data-role="bet-spot-Banker"]
+[data-role='chip-stack'] [data-role='revolver-item-list'] [data-value='
+'] svg
+.footerControls--b605c
+.svgGameStatistics--6b3cf
